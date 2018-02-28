@@ -1,6 +1,4 @@
-# February
-
-## 2/27
+**2/27**
 
 将Win10输入法快捷键更改为Ctrl+Shift, 切换语言, Ctrl+Space无法更改, 保留为切换键盘Layout.
 
@@ -11,4 +9,16 @@ Gitbook与GitHub连接失败, 原因是GitHub已经绑定另一个账户. 应该
 发现可以添加英语作为第二语言包并调整页面语言, 使其与公司电脑显示一致.
 
 需要复查如何禁用搜狗网络服务.
+
+**2/28**
+
+在公司电脑上安装GitBook Editor, 还是无法登陆, 网络禁止.
+
+安装GitBook时遇到了以下问题. 网上找到solution已经解决. 
+
+Fix – “This app can’t run on your PC” Windows 10 AMD
+
+**Solution – Download the application again using a different web browser**
+
+Number of users reported_“This app can’t run on your PC”_error message while trying to install AMD graphic card drivers. Apparently, the problem was caused by corrupted download, and after switching to a different browser and redownloading the same file again the issue was permanently resolved.
 
