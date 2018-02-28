@@ -14,11 +14,13 @@ Gitbook与GitHub连接失败, 原因是GitHub已经绑定另一个账户. 应该
 
 在公司电脑上安装GitBook Editor, 还是无法登陆, 网络禁止.
 
-安装GitBook时遇到了以下问题. 网上找到solution已经解决. 
+安装GitBook时遇到了以下问题. 网上找到solution已经解决.
 
 Fix – “This app can’t run on your PC” Windows 10 AMD
 
 **Solution – Download the application again using a different web browser**
 
-Number of users reported_“This app can’t run on your PC”_error message while trying to install AMD graphic card drivers. Apparently, the problem was caused by corrupted download, and after switching to a different browser and redownloading the same file again the issue was permanently resolved.
+Number of users reported\_“This app can’t run on your PC”\_error message while trying to install AMD graphic card drivers. Apparently, the problem was caused by corrupted download, and after switching to a different browser and redownloading the same file again the issue was permanently resolved.
+
+使用搜狗输入法在分屏打字时主屏右下角闪烁, 无法解决, 查询是与Chrome的兼容性问题. 实测在主屏上也有这个问题. 垃圾搜狗. 
 
