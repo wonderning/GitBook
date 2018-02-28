@@ -1,4 +1,4 @@
- **2/27**
+**2/27**
 
 将Win10输入法快捷键更改为Ctrl+Shift, 切换语言, Ctrl+Space无法更改, 保留为切换键盘Layout.
 
@@ -24,5 +24,11 @@ Number of users reported\_“This app can’t run on your PC”\_error message w
 
 使用搜狗输入法在分屏打字时主屏右下角闪烁, 无法解决, 查询是与Chrome的兼容性问题. 实测在主屏上也有这个问题. 垃圾搜狗.
 
-尝试改用Edge作为打开Gitbook的默认浏览器 
+尝试改用Edge作为打开Gitbook的默认浏览器, 十分卡顿, 没法用. 
+
+Gitbook doesn’t have an app available on iOS platform. No third party support either. 
+
+Download and install xshell on work laptop.  and WinSCP. And WireShark. And iSlide.
+
+
 
