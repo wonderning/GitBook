@@ -1,4 +1,4 @@
-**2/27**
+## **2/27 Tuesday**
 
 将Win10输入法快捷键更改为Ctrl+Shift, 切换语言, Ctrl+Space无法更改, 保留为切换键盘Layout.
 
@@ -10,7 +10,9 @@ Gitbook与GitHub连接失败, 原因是GitHub已经绑定另一个账户. 应该
 
 需要复查如何禁用搜狗网络服务.
 
-**2/28**
+---
+
+## **2/28 Wednesday**
 
 在公司电脑上安装GitBook Editor, 还是无法登陆, 网络禁止.
 
@@ -28,5 +30,52 @@ Gitbook与GitHub连接失败, 原因是GitHub已经绑定另一个账户. 应该
 
 Gitbook doesn’t have an app available on iOS platform. No third party support either.
 
-Download and install xshell on work laptop.  and WinSCP. And WireShark. And iSlide.
+Download and install xshell on work laptop. and WinSCP. And WireShark. And iSlide.
+
+下午Team二月份生日会, 吃了蛋糕, 贝莱松, 很好吃.
+
+---
+
+## 2/29 Thursday
+
+早晨登了三十多分钟椭圆机, 今天的训练量可以了.
+
+#### Byte of Python
+
+Literal Constants includ string and numbers.
+
+Single and double quotes works exactly the same way.
+
+There's no char in Python.
+
+```py
+import sys  # To use sys.stdout, this is necessary.
+
+# Format Method of a string. 
+phrase = '{0} is {1} years old'.format('Derek', 20) # 0 and 1 can be ommitted.
+print(phrase)
+# More format styles
+print('{0:.3f}'.format(1.0/3)) # To specify precision of a float number.
+print('{:.3f}'.format(1.0/3)) # 0 can be ommited.
+print('{0:_^11}'.format('hello')) # Fill with _ to 11 length.
+print('{name} wrote {book}'.format(name='Swaroop', book='A Byte of Python')) #use name.
+print('{} wrote {}'.format('Swaroop', 'A Byte of Python')) # Omit style.
+
+# print full definition.
+print('Hello World', sep=' ', end='\n', file=sys.stdout, flush=False)
+
+# Escape Sequences
+print('What\'s your name?')
+print("What's your name?")
+print("""What's your name?""")
+print('This is the first sentence. \
+This is the second setence.')
+print(r"What\'s your name?")
+```
+
+Can we access markdown version of 'Byte of Python'? Yes, but many .md files.
+
+比较困, 趴着休息一会, 恢复过来了. 可以继续了.
+
+曹方-遇见我
 
