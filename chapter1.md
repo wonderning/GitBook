@@ -81,5 +81,5 @@ Can we access markdown version of 'Byte of Python'? Yes, but many .md files.
 
 尝试使用修改路由的方式解决GitBook无法连接网络的问题, 使其优先连接到iPhone网络中, 失败, 因为即使可以登录, 笔记本也打不开.
 
-
+尝试链接GitHub和GitBook.
 
